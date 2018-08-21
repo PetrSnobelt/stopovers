@@ -79,10 +79,10 @@ const ActionWrapper = styled.div`
 const AirplaneWrapper = styled.div`
   position: relative;
   top: -38px;
-  left: -121px;
+  left: -3px;
+  justify-self: start;
   @media (min-width: 1440px) {
     top: -38px;
-    left: -191px;
   }
 `;
 
